@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ----------------------------------------- */
+
+.bg-brown{
+    background-color: #ba3b0a;
+}
+
+.text-brown{
+    color: #ba3b0a;
+}
